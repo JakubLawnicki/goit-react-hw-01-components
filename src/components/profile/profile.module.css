@@ -1,0 +1,30 @@
+.avatar {
+  display: block;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  font-size: 12px;
+}
+.location {
+  font-size: 14px;
+}
+.name {
+  font-size: 16px;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+}
+.quantity {
+  font-size: 14px;
+}
+.stats {
+  list-style: none;
+  display: flex;
+}
+.tag {
+  font-size: 14px;
+}
